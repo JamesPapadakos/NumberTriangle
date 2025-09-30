@@ -25,7 +25,7 @@ what you are tasked with for this task.
 ## Requirements:
 
 - Submit the GitHub URL of your repo on MarkUs and ensure the self tests all pass to earn full credit.
-
+- Hello! 
 - Your repo must contain at least:
   - ONE closed issue
   - ONE closed PR
